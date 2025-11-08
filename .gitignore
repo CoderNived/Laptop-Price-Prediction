@@ -1,0 +1,31 @@
+# --- Python + Streamlit + ML Project Ignore List ---
+
+# Virtual environments
+venv/
+env/
+
+# Cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Model and dataset files
+*.pkl
+*.joblib
+*.csv
+*.xlsx
+*.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# System / OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit and temporary files
+.streamlit/
